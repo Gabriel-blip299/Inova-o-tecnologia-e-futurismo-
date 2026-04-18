@@ -1,0 +1,37 @@
+# Sistema de Fila com QR Code
+
+## 1. Problema identificado
+Em muitos comércios, principalmente mercados, farmácias e lotéricas, a fila vira uma bagunça nos horários de pico. As pessoas ficam muito tempo esperando, se irritam e algumas até desistem e vão embora. No fim, tanto o cliente quanto a loja saem perdendo.
+
+## 2. Quem é afetado
+- Clientes que não querem ficar presos numa fila.  
+- Funcionários que precisam organizar todo mundo no grito.  
+- O comércio, que perde produtividade e vendas.
+
+## 3. Ideia de solução
+Criar um sistema de fila usando QR Code. O cliente chega, escaneia o código e entra na fila pelo celular, sem precisar ficar parado.
+
+## 4. Como funcionaria
+1. O comércio coloca um cartaz com o QR Code.  
+2. A pessoa escaneia e aparece uma tela confirmando a entrada na fila.  
+3. O celular mostra a posição e o tempo estimado.  
+4. Quando estiver perto, o sistema manda notificação.  
+5. Os atendentes chamam o próximo número no painel.
+
+## 5. Público-alvo
+- Mercados  
+- Farmácias  
+- Consultórios  
+- Restaurantes com retirada  
+- Lotéricas  
+- Clientes que querem esperar de forma mais tranquila  
+
+## 6. Diferencial
+- O cliente não precisa ficar preso num lugar  
+- Não precisa baixar app  
+- Evita confusão e aglomeração  
+- Melhora a experiência  
+- É barato de implementar  
+
+## 7. Viabilidade
+Dá para implementar usando tecnologias simples: um QR Code que leva para uma página de fila e um sistema para os atendentes. Já existem soluções parecidas, então adaptar para comércios pequenos é totalmente possível.
